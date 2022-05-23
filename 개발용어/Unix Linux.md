@@ -17,7 +17,7 @@
 
 ## 유닉스 시스템의 구성
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoding-factory.tistory.com%2F315&psig=AOvVaw0Lot1JUIwtxXTFrCEJV4Ga&ust=1653397287707000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCxs4LX9fcCFQAAAAAdAAAAABAD">
+<img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9902E33E5C5E882C1B">
 
 ### **커널(Kernel)**
 
