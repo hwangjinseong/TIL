@@ -17,7 +17,7 @@
 
 ## 유닉스 시스템의 구성
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7228aee5-6f56-42de-b832-97c9660bdb7e/Untitled.png)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoding-factory.tistory.com%2F315&psig=AOvVaw0Lot1JUIwtxXTFrCEJV4Ga&ust=1653397287707000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCxs4LX9fcCFQAAAAAdAAAAABAD">
 
 ### **커널(Kernel)**
 
@@ -132,7 +132,7 @@ Unix의 가장 핵심적인 부분입니다. 컴퓨터가 부팅될 때 주기�
 
 ### 다양한 파일 시스템 지원
 
-프로그램과 자료를 저장하기 위해 리눅스 고유의 파일 시스템인 ext2, ext3, ext4 등을 사용한다. 그러나 고유의 파일 시스템만 지원하는 다른 운영체제와 달리 다양한 파일 시스템을 지원한다. DOS의 FAT, Windows의 FAT32 및 NTFS, CD-ROM의 ISO 9660 등이 있다.
+프로그램과 자료를 저장하기 위해 리눅스 고유의 파일 시스템인 ext2, ext3, ext4 등을 사용한다. 그러나 고유의 파일 시스템만 지원하는 다른 운영체제와 달리 다양한 파일 시스템을 지원한다. DOS의 FAT, Windows의 FAT32 및 NTFS, CD-ROM의 ISO 9660 등이 있다.   
 
 ### 뛰어난 이식성
 
