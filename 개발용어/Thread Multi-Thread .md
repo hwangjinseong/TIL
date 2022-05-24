@@ -51,7 +51,7 @@
 
 사용자수준 스레드와 커널 수준 스레드가 `일대일(1:1)`로 매핑됩니다. 따라서 사용자 수준 쓰레드를 생성하면 이에 대응하는 커널 스레드를 자동으로 생성합니다.
 
-<img src=https://goodgid.github.io/assets/img/os/what_is_multi_thread_1.png"">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbUUIZN%2FbtqU53m87lc%2FrHTsnH1C5faKgKKeS2SIgK%2Fimg.png">
 
 **장점**
 
